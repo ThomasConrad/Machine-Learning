@@ -1,0 +1,70 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "runfile('C:/DTU/OneDrive - Danmarks Tekniske Universitet/Universitet/Semester 3/Machine Learning/Projekt 1/project1.py', wdir='C:/DTU/OneDrive - Danmarks Tekniske Universitet/Universitet/Semester 3/Machine Learning/Projekt 1')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "runfile('C:/DTU/OneDrive - Danmarks Tekniske Universitet/Universitet/Semester 3/Machine Learning/Projekt 1/project1.py', wdir='C:/DTU/OneDrive - Danmarks Tekniske Universitet/Universitet/Semester 3/Machine Learning/Projekt 1')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "runfile('C:/DTU/OneDrive - Danmarks Tekniske Universitet/Universitet/Semester 3/Machine Learning/Projekt 1/project1.py', wdir='C:/DTU/OneDrive - Danmarks Tekniske Universitet/Universitet/Semester 3/Machine Learning/Projekt 1')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "runfile('C:/DTU/OneDrive - Danmarks Tekniske Universitet/Universitet/Semester 3/Machine Learning/Projekt 1/project1.py', wdir='C:/DTU/OneDrive - Danmarks Tekniske Universitet/Universitet/Semester 3/Machine Learning/Projekt 1')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "runfile('C:/DTU/OneDrive - Danmarks Tekniske Universitet/Universitet/Semester 3/Machine Learning/Projekt 1/project1.py', wdir='C:/DTU/OneDrive - Danmarks Tekniske Universitet/Universitet/Semester 3/Machine Learning/Projekt 1')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "runfile('C:/DTU/OneDrive - Danmarks Tekniske Universitet/Universitet/Semester 3/Machine Learning/Projekt 1/project1.py', wdir='C:/DTU/OneDrive - Danmarks Tekniske Universitet/Universitet/Semester 3/Machine Learning/Projekt 1')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "runcell(0, 'C:/DTU/OneDrive - Danmarks Tekniske Universitet/Universitet/Semester 3/Machine Learning/Projekt 1/project1.py')"
+   ]
+  }
+ ],
+ "metadata": {},
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
